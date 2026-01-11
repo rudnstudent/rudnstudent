@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://eng.rudn.ru">
-    <img src="./assets/rudn-university.png" alt="RUDN University" width="180">
+    <img src="./assets/rudn-university.png" alt="RUDN University" width="80">
   </a>
 </p>
 
@@ -19,7 +19,7 @@
 ## About ME 💬 :
 
 <div align="center">
-<table>
+<table style="zoom:1.15;">
   <tr>
     <td>
       <ul>
@@ -33,7 +33,7 @@
       </ul>
     </td>
     <td>
-      <img src="./assets/emoji-looking-surprised-at-computer.gif" alt="Coding" width="200">
+      <img src="./assets/emoji-looking-surprised-at-computer.gif" alt="Coding" width="220">
     </td>
   </tr>
 </table>
