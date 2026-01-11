@@ -6,8 +6,8 @@
 
 <h1 align="center">hi, i'm Sergey Gritsko</a>!</h1>
 <p align="center">
-  <a href="https://yuna0x0.com">
-    <img src="https://yuna0x0.com/88x31.webp" alt="yuna0x0">
+  <a href="https://eng.rudn.ru">
+    <img src="https://github.com/rudnstudent/rudnstudent/blob/main/assets/rudn-university.png" alt="RUDN University">
   </a>
 </p>
-<h3 align="center">welcome to my profile :3</h3>
+<h3 align="center">welcome to my profile.</h3>
