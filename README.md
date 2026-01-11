@@ -7,7 +7,7 @@
 <h1 align="center">hi, i'm Sergey Gritsko</a>!</h1>
 <p align="center">
   <a href="https://eng.rudn.ru">
-    <img src="./assets/rudn-university.png" alt="Sergey Gritsko" width="200">
+    <img src="./assets/rudn-university.png" alt="RUDN University" >
   </a>
 </p>
 <h3 align="center">welcome to my profile.</h3>
