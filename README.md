@@ -18,6 +18,7 @@
 
 ## About ME 💬 :
 
+<div align="center">
 <table>
   <tr>
     <td>
@@ -36,6 +37,7 @@
     </td>
   </tr>
 </table>
+</div>
 
 ## Languages & Tools 💻 :
 
@@ -57,9 +59,9 @@
 
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rudnstudent&theme=default&hide_border=false&include_all_commits=false&count_private=false&show_icons=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=rudnstudent&theme=default&hide_border=false&show_icons=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rudnstudent&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact&show_icons=true)
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=rudnstudent&theme=default&hide_border=false&show_icons=true"/>
+</div>
 
 ## 📬 Contact Me:
 <p align="center">
