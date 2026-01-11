@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://eng.rudn.ru">
-    <img src="./assets/rudn-university.png" alt="RUDN University">
+    <img src="./assets/rudn-university.png" alt="RUDN University" width="180">
   </a>
 </p>
 
